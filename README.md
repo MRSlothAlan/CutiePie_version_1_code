@@ -19,33 +19,33 @@ The following is a list of reference for my project. I have divided the list int
 ======================================
 Arduino and grove hardware and coding
 
-“A Video Overlay Shield for Arduino.” Open Electronics, www.open-electronics.org/a-video-overlay-shield-for-arduino/.
+* “A Video Overlay Shield for Arduino.” Open Electronics, www.open-electronics.org/a-video-overlay-shield-for-arduino/.
 Bill. “Grove - Buzzer.” Seeedstudio, wiki.seeedstudio.com/Grove-Buzzer/.
 Bill. “Grove - 16x2 LCD Series.” Seeedstudio, wiki.seeedstudio.com/Grove-16x2_LCD_Series/.
 “Home.” Arduino, www.arduino.cc/.
-Instructables. “FACE TRACKING USING ARDUINO !!!” Instructables, Instructables, 20 Apr. 2019, www.instructables.com/id/FACE-TRACKING-USING-ARDUINO-/.
-Instructables. “How to Easily Play Music With Buzzer on Arduino (The Imperial March - STAR WARS).” Instructables, Instructables, 19 Oct. 2017, www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/.
-Kazarinoff, Peter D. “Using Python to Control an Arduino.” Python for Undergraduate Engineers, 20 Dec. 2018, pythonforundergradengineers.com/python-arduino-LED.html.
+* Instructables. “FACE TRACKING USING ARDUINO !!!” Instructables, Instructables, 20 Apr. 2019, www.instructables.com/id/FACE-TRACKING-USING-ARDUINO-/.
+* Instructables. “How to Easily Play Music With Buzzer on Arduino (The Imperial March - STAR WARS).” Instructables, Instructables, 19 Oct. 2017, www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/.
+* Kazarinoff, Peter D. “Using Python to Control an Arduino.” Python for Undergraduate Engineers, 20 Dec. 2018, pythonforundergradengineers.com/python-arduino-LED.html.
 ======================================
 Python Serial communication
 
-infinf 19.1k96494, and TJDTJD 10.2k11930. “Serial Port: HW Handshaking Turned on Only on Sender Side, Transmission Still Works.” Stack Overflow, stackoverflow.com/questions/12395997/serial-port-hw-handshaking-turned-on-only-on-sender-side-transmission-still-wo.
+* infinf 19.1k96494, and TJDTJD 10.2k11930. “Serial Port: HW Handshaking Turned on Only on Sender Side, Transmission Still Works.” Stack Overflow, stackoverflow.com/questions/12395997/serial-port-hw-handshaking-turned-on-only-on-sender-side-transmission-still-wo.
 WaveShapePlay. “Arduino and Python Serial Communication with PySerial Part 1.” YouTube, YouTube, 15 June 2018, www.youtube.com/watch?v=iKGYbMD3NT8.
 ======================================
 
 OpenCV Python
 
-“Face Detection Using Haar Cascades.” OpenCV, docs.opencv.org/3.4.2/d7/d8b/tutorial_py_face_detection.html.
-“OpenCV Documentation Index.” OpenCV Documentation Index, docs.opencv.org/.
-“Pan/Tilt Face Tracking with a Raspberry Pi and OpenCV.” PyImageSearch, 22 Apr. 2019, www.pyimagesearch.com/2019/04/01/pan-tilt-face-tracking-with-a-raspberry-pi-and-opencv/.
+* “Face Detection Using Haar Cascades.” OpenCV, docs.opencv.org/3.4.2/d7/d8b/tutorial_py_face_detection.html.
+* “OpenCV Documentation Index.” OpenCV Documentation Index, docs.opencv.org/.
+* “Pan/Tilt Face Tracking with a Raspberry Pi and OpenCV.” PyImageSearch, 22 Apr. 2019, www.pyimagesearch.com/2019/04/01/pan-tilt-face-tracking-with-a-raspberry-pi-and-opencv/.
 ======================================
 
 Machine learning Python
 
-abhijeet3922. “abhijeet3922/FaceEmotion_ID.” GitHub, 7 Jan. 2019, github.com/abhijeet3922/FaceEmotion_ID.
-“Demonstration of Facial Emotion Recognition on Real Time Video Using CNN : Python & Keras.” Machine Learning in Action, 28 Nov. 2018, appliedmachinelearning.blog/2018/11/28/demonstration-of-facial-emotion-recognition-on-real-time-video-using-cnn-python-keras/.
+* abhijeet3922. “abhijeet3922/FaceEmotion_ID.” GitHub, 7 Jan. 2019, github.com/abhijeet3922/FaceEmotion_ID.
+* “Demonstration of Facial Emotion Recognition on Real Time Video Using CNN : Python & Keras.” Machine Learning in Action, 28 Nov. 2018, appliedmachinelearning.blog/2018/11/28/demonstration-of-facial-emotion-recognition-on-real-time-video-using-cnn-python-keras/.
 ======================================
 
 Physical prototype building
 
-Goergen, Jeff. “Cambot! Servo Controlled Motion Tracking Camera.” YouTube, YouTube, 9 Nov. 2017, www.youtube.com/watch?v=nbJNLVBo_g4.
+* Goergen, Jeff. “Cambot! Servo Controlled Motion Tracking Camera.” YouTube, YouTube, 9 Nov. 2017, www.youtube.com/watch?v=nbJNLVBo_g4.
