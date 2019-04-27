@@ -1,7 +1,6 @@
 # import all the required modules
 """
-with the use of pan_tilt_auto_three.ino, track according to web-cam (PC)
-pan_tilt_auto_four.ino, track using web_cam (Cutiepie itself)
+use with pan_tilt_auto_four.ino, track using web_cam (Cutiepie itself)
 """
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
