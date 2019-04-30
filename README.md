@@ -1,7 +1,7 @@
 # CutiePie_version_1_code
 please upload the arduino code (pan_tilt_auto_four.ino) into the arduino board
 after connecting the device with computer, run test_face_detect_two.py in your computer.
-the fer2013 dataset can be download from the link provide in the fer2013_LINK folder
+the fer2013 dataset can be download from the link provide in the fer2013_LINK folder.
 Please refer to the file 'hardware_connect.jpg' for the hardware connection
 
 I have searched more than 200 websites, and I would like to list out several useful ones in MLA citation format. Every effort has been made to trace copyright, but in the event of any accidental infringement, I shall be pleased to come to a suitable arrangement with the rightful owner.
